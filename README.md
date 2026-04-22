@@ -4,6 +4,8 @@
 
 In a world swallowed by endless oceans after a climate catastrophe, this trainer gives you more freedom to explore, survive, and fully immerse yourself in the game's deep atmosphere without constant survival grinding.
 
+<img width="1031" height="791" alt="image" src="https://github.com/user-attachments/assets/19ceb820-3023-4ade-9920-ecf5f6976d2e" />
+
 ### ✨ Key Features
 
 - Unlimited Resources and Items
